@@ -1,11 +1,23 @@
-# Meibo
+# 没脖
 
-Mobile web Weibo on desktop.
+真`无乱序微博客户端（
 
-![Screenshot](screenshot.png?raw=true "Screenshot")
+![截屏](screenshot.png?raw=true "截屏")
 
+## FAQ
 
-## Run
+- Q. 这是毛
+- A. 这是把 <http://m.weibo.cn/> 用 electron 加壳的“微博客户端”
+- Q. 怎么关闭窗口？
+- A. Command+W
+- Q. 怎么退出程序？
+- A. Command+Q
+- Q. Windows 怎么办
+- A. 在 macOS 上开发的，Windows 的话可能没法退出，请 Ctrl+Alt+Delete 退出。
+- Q. 你是谁
+- A. 我是[红领巾](https://weibo.com/gerhut)
+
+## 运行
 
     $ npm install
     $ npm start
