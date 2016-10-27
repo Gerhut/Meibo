@@ -1,0 +1,27 @@
+{
+  "name": "meibo",
+  "version": "0.0.1",
+  "description": "Mobile web Weibo on desktop.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "NODE_ENV=development npm start",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerhut/Meibo.git"
+  },
+  "author": "George Chung <Gerhut@GMail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Gerhut/Meibo/issues"
+  },
+  "homepage": "https://github.com/Gerhut/Meibo#readme",
+  "dependencies": {
+    "electron": "^1.4.4"
+  },
+  "devDependencies": {
+    "standard": "^8.5.0"
+  }
+}
