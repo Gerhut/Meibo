@@ -2,6 +2,9 @@
 
 Mobile web Weibo on desktop.
 
+![Screenshot](screenshot.png?raw=true "Screenshot")
+
+
 ## Run
 
     $ npm install
