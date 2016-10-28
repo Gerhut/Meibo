@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "electron .",
-    "dev": "NODE_ENV=development npm start",
     "test": "standard"
   },
   "repository": {
