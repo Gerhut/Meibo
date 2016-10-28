@@ -8,10 +8,12 @@
 
 - Q. 这是毛  
   A. 这是把 <http://m.weibo.cn/> 用 electron 加壳的“微博客户端”
-- Q. 怎么关闭窗口？  
-  A. Command+W
+- Q. 怎么隐藏窗口？  
+  A. Esc
 - Q. 怎么退出程序？  
-  A. Command+Q
+  A. macOS 下面 Command+W 或者 Command+Q；Window 下面 Alt+F4
+- Q. 怎么拖动？  
+  A. 拖最上面那个白条是可以动的，有些页面没有的话就没办法了请报 bug 给微博
 - Q. Windows 怎么办  
   A. 在 macOS 上开发的，Windows 的话可能没法退出，请 Ctrl+Alt+Delete 退出。
 - Q. 你是谁  

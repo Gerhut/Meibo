@@ -1,6 +1,7 @@
 {
   "name": "meibo",
-  "version": "0.0.1",
+  "productName": "Meibo",
+  "version": "0.0.2",
   "description": "Mobile web Weibo on desktop.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +19,8 @@
   },
   "homepage": "https://github.com/Gerhut/Meibo#readme",
   "dependencies": {
-    "electron": "^1.4.4"
+    "electron": "^1.4.4",
+    "opener": "^1.4.2"
   },
   "devDependencies": {
     "standard": "^8.5.0"
